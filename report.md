@@ -1,5 +1,5 @@
 # Lab 02: Arithmetic Circuits (Adders)
-**Student Name:** Rayene rahal  
+**Student Name:** Rayene rahal and Ahmed guerrah  
 **Group:** 03
 
 ## 1. Introduction
